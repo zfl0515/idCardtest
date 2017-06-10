@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F07BF6E1E0391A000FBD186 /* demo.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F07BF6D1E0391A000FBD186 /* demo.m */; };
+		5F76214F1DFBCEEA00C7E925 /* ImproveVehicleInfoVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F76214E1DFBCEEA00C7E925 /* ImproveVehicleInfoVC.m */; };
+		5F7621541DFBDA9600C7E925 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7621531DFBDA9600C7E925 /* 6.jpg */; };
+		5F7621561DFBDAA000C7E925 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7621551DFBDAA000C7E925 /* 7.jpg */; };
+		5F7621581DFBDAA400C7E925 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7621571DFBDAA400C7E925 /* 8.jpg */; };
+		5F76215A1DFBDB4300C7E925 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7621591DFBDB4300C7E925 /* 9.jpg */; };
+		5F76215C1DFBDC3500C7E925 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F76215B1DFBDC3500C7E925 /* 10.jpg */; };
+		5F76215E1DFBE01700C7E925 /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F76215D1DFBE01700C7E925 /* 11.jpg */; };
+		5F7621601DFBE46700C7E925 /* 12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F76215F1DFBE46700C7E925 /* 12.jpg */; };
 		5F82D6071DF95DBB00A50FB1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F82D6061DF95DBB00A50FB1 /* main.m */; };
 		5F82D60A1DF95DBB00A50FB1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F82D6091DF95DBB00A50FB1 /* AppDelegate.m */; };
 		5F82D60D1DF95DBB00A50FB1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F82D60C1DF95DBB00A50FB1 /* ViewController.m */; };
@@ -15,6 +24,12 @@
 		5F82D6151DF95DBB00A50FB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F82D6131DF95DBB00A50FB1 /* LaunchScreen.storyboard */; };
 		5F82D6201DF95DBB00A50FB1 /* idCardTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F82D61F1DF95DBB00A50FB1 /* idCardTestTests.m */; };
 		5F82D62B1DF95DBB00A50FB1 /* idCardTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F82D62A1DF95DBB00A50FB1 /* idCardTestUITests.m */; };
+		5F82D63A1DF9615100A50FB1 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F82D6391DF9615100A50FB1 /* 1.jpg */; };
+		5F82D63C1DF9615B00A50FB1 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F82D63B1DF9615B00A50FB1 /* 2.jpg */; };
+		5F82D63E1DF9616100A50FB1 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F82D63D1DF9616100A50FB1 /* 3.jpg */; };
+		5F82D6401DF9645600A50FB1 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F82D63F1DF9645600A50FB1 /* 4.jpg */; };
+		5F82D6421DF9709700A50FB1 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5F82D6411DF9709700A50FB1 /* 5.jpg */; };
+		6A8B181BB180D5001C3811ED /* libPods-idCardTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BC9536B2AC2B75BB53DD2D3 /* libPods-idCardTest.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +50,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5F07BF6C1E0391A000FBD186 /* demo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = demo.h; sourceTree = "<group>"; };
+		5F07BF6D1E0391A000FBD186 /* demo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = demo.m; sourceTree = "<group>"; };
+		5F76214D1DFBCEEA00C7E925 /* ImproveVehicleInfoVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImproveVehicleInfoVC.h; sourceTree = "<group>"; };
+		5F76214E1DFBCEEA00C7E925 /* ImproveVehicleInfoVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImproveVehicleInfoVC.m; sourceTree = "<group>"; };
+		5F7621531DFBDA9600C7E925 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		5F7621551DFBDAA000C7E925 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		5F7621571DFBDAA400C7E925 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		5F7621591DFBDB4300C7E925 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		5F76215B1DFBDC3500C7E925 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		5F76215D1DFBE01700C7E925 /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		5F76215F1DFBE46700C7E925 /* 12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpg; sourceTree = "<group>"; };
 		5F82D6021DF95DBB00A50FB1 /* idCardTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = idCardTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F82D6061DF95DBB00A50FB1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5F82D6081DF95DBB00A50FB1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +77,14 @@
 		5F82D6261DF95DBB00A50FB1 /* idCardTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = idCardTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F82D62A1DF95DBB00A50FB1 /* idCardTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = idCardTestUITests.m; sourceTree = "<group>"; };
 		5F82D62C1DF95DBB00A50FB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F82D6391DF9615100A50FB1 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		5F82D63B1DF9615B00A50FB1 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		5F82D63D1DF9616100A50FB1 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		5F82D63F1DF9645600A50FB1 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		5F82D6411DF9709700A50FB1 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		8BC9536B2AC2B75BB53DD2D3 /* libPods-idCardTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-idCardTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C00355B801DFFED5E958E0F3 /* Pods-idCardTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-idCardTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-idCardTest/Pods-idCardTest.debug.xcconfig"; sourceTree = "<group>"; };
+		CA26B7CD641844F306537516 /* Pods-idCardTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-idCardTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-idCardTest/Pods-idCardTest.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +92,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A8B181BB180D5001C3811ED /* libPods-idCardTest.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +113,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1045C4E29E2631F4B13F925B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C00355B801DFFED5E958E0F3 /* Pods-idCardTest.debug.xcconfig */,
+				CA26B7CD641844F306537516 /* Pods-idCardTest.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		1AEE758870C091799E70DAB4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8BC9536B2AC2B75BB53DD2D3 /* libPods-idCardTest.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		5F82D5F91DF95DBB00A50FB1 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +137,8 @@
 				5F82D61E1DF95DBB00A50FB1 /* idCardTestTests */,
 				5F82D6291DF95DBB00A50FB1 /* idCardTestUITests */,
 				5F82D6031DF95DBB00A50FB1 /* Products */,
+				1045C4E29E2631F4B13F925B /* Pods */,
+				1AEE758870C091799E70DAB4 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -104,7 +158,11 @@
 				5F82D6081DF95DBB00A50FB1 /* AppDelegate.h */,
 				5F82D6091DF95DBB00A50FB1 /* AppDelegate.m */,
 				5F82D60B1DF95DBB00A50FB1 /* ViewController.h */,
+				5F07BF6C1E0391A000FBD186 /* demo.h */,
+				5F07BF6D1E0391A000FBD186 /* demo.m */,
 				5F82D60C1DF95DBB00A50FB1 /* ViewController.m */,
+				5F76214D1DFBCEEA00C7E925 /* ImproveVehicleInfoVC.h */,
+				5F76214E1DFBCEEA00C7E925 /* ImproveVehicleInfoVC.m */,
 				5F82D60E1DF95DBB00A50FB1 /* Main.storyboard */,
 				5F82D6111DF95DBB00A50FB1 /* Assets.xcassets */,
 				5F82D6131DF95DBB00A50FB1 /* LaunchScreen.storyboard */,
@@ -117,6 +175,7 @@
 		5F82D6051DF95DBB00A50FB1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5F82D6381DF9611A00A50FB1 /* Imgs */,
 				5F82D6061DF95DBB00A50FB1 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -140,6 +199,25 @@
 			path = idCardTestUITests;
 			sourceTree = "<group>";
 		};
+		5F82D6381DF9611A00A50FB1 /* Imgs */ = {
+			isa = PBXGroup;
+			children = (
+				5F76215F1DFBE46700C7E925 /* 12.jpg */,
+				5F76215D1DFBE01700C7E925 /* 11.jpg */,
+				5F76215B1DFBDC3500C7E925 /* 10.jpg */,
+				5F7621591DFBDB4300C7E925 /* 9.jpg */,
+				5F7621571DFBDAA400C7E925 /* 8.jpg */,
+				5F7621551DFBDAA000C7E925 /* 7.jpg */,
+				5F7621531DFBDA9600C7E925 /* 6.jpg */,
+				5F82D6411DF9709700A50FB1 /* 5.jpg */,
+				5F82D63F1DF9645600A50FB1 /* 4.jpg */,
+				5F82D63D1DF9616100A50FB1 /* 3.jpg */,
+				5F82D63B1DF9615B00A50FB1 /* 2.jpg */,
+				5F82D6391DF9615100A50FB1 /* 1.jpg */,
+			);
+			name = Imgs;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +225,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5F82D62F1DF95DBB00A50FB1 /* Build configuration list for PBXNativeTarget "idCardTest" */;
 			buildPhases = (
+				AA2115424973B146C374BB71 /* [CP] Check Pods Manifest.lock */,
 				5F82D5FE1DF95DBB00A50FB1 /* Sources */,
 				5F82D5FF1DF95DBB00A50FB1 /* Frameworks */,
 				5F82D6001DF95DBB00A50FB1 /* Resources */,
+				5875E298DE4FDEDCF2A11CB3 /* [CP] Embed Pods Frameworks */,
+				FC3375CC6675877D57671F0B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -207,7 +288,6 @@
 				TargetAttributes = {
 					5F82D6011DF95DBB00A50FB1 = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = V79H4H5857;
 					};
 					5F82D61A1DF95DBB00A50FB1 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -246,7 +326,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F76215C1DFBDC3500C7E925 /* 10.jpg in Resources */,
+				5F7621581DFBDAA400C7E925 /* 8.jpg in Resources */,
+				5F7621541DFBDA9600C7E925 /* 6.jpg in Resources */,
 				5F82D6151DF95DBB00A50FB1 /* LaunchScreen.storyboard in Resources */,
+				5F82D6421DF9709700A50FB1 /* 5.jpg in Resources */,
+				5F7621601DFBE46700C7E925 /* 12.jpg in Resources */,
+				5F76215E1DFBE01700C7E925 /* 11.jpg in Resources */,
+				5F82D6401DF9645600A50FB1 /* 4.jpg in Resources */,
+				5F82D63A1DF9615100A50FB1 /* 1.jpg in Resources */,
+				5F82D63C1DF9615B00A50FB1 /* 2.jpg in Resources */,
+				5F82D63E1DF9616100A50FB1 /* 3.jpg in Resources */,
+				5F7621561DFBDAA000C7E925 /* 7.jpg in Resources */,
+				5F76215A1DFBDB4300C7E925 /* 9.jpg in Resources */,
 				5F82D6121DF95DBB00A50FB1 /* Assets.xcassets in Resources */,
 				5F82D6101DF95DBB00A50FB1 /* Main.storyboard in Resources */,
 			);
@@ -268,11 +360,61 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		5875E298DE4FDEDCF2A11CB3 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-idCardTest/Pods-idCardTest-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AA2115424973B146C374BB71 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		FC3375CC6675877D57671F0B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-idCardTest/Pods-idCardTest-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		5F82D5FE1DF95DBB00A50FB1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F07BF6E1E0391A000FBD186 /* demo.m in Sources */,
+				5F76214F1DFBCEEA00C7E925 /* ImproveVehicleInfoVC.m in Sources */,
 				5F82D60D1DF95DBB00A50FB1 /* ViewController.m in Sources */,
 				5F82D60A1DF95DBB00A50FB1 /* AppDelegate.m in Sources */,
 				5F82D6071DF95DBB00A50FB1 /* main.m in Sources */,
@@ -412,8 +554,10 @@
 		};
 		5F82D6301DF95DBB00A50FB1 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C00355B801DFFED5E958E0F3 /* Pods-idCardTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = idCardTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = lyy.idCardTest;
@@ -423,8 +567,10 @@
 		};
 		5F82D6311DF95DBB00A50FB1 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CA26B7CD641844F306537516 /* Pods-idCardTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = idCardTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = lyy.idCardTest;
@@ -499,6 +645,7 @@
 				5F82D6311DF95DBB00A50FB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5F82D6321DF95DBB00A50FB1 /* Build configuration list for PBXNativeTarget "idCardTestTests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +654,7 @@
 				5F82D6341DF95DBB00A50FB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5F82D6351DF95DBB00A50FB1 /* Build configuration list for PBXNativeTarget "idCardTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +663,7 @@
 				5F82D6371DF95DBB00A50FB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

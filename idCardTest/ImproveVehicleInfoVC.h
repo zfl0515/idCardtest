@@ -10,4 +10,6 @@
 
 @interface ImproveVehicleInfoVC : NSObject
 
+@property (nonatomic, copy) NSString *carNo;
+
 @end
